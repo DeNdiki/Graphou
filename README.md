@@ -50,5 +50,7 @@ have fun!
 
 ###credits
 
-    Current Developer:
+    Current Developers:
         KIBONGUE Stéphane Ivalain
+        KONDE BATOUM Jacques
+        MVOGO DJUISSI Annabelle Audrey
